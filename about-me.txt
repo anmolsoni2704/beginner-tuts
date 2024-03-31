@@ -1,1 +1,8 @@
 My name is Anmol.
+
+Commands learned till now - 
+ - git commit
+ - git commit 
+ - git status
+ - git log
+ - git add
