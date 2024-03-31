@@ -14,6 +14,6 @@ Commands learned till now -
  - git checkout branch_name -> switches to a specific branch
  - git checkout -b branch_name -> creates and then switches to newly created branch
  - git merge branch_name -> merges the specific branch to current working/active branch
- - git rebase branch_name -> it rebase the specific branch with the current working/active branch
+ - git rebase branch_name -> it rebases the specific branch with the current working/active branch(all the changes get added in current branch)
 
  I am writing in main branch.
