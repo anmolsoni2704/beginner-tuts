@@ -4,6 +4,7 @@ Commands learned till now -
  - git init
  - git add
  - git commit -m "msg"
+ - git commit -am "msg" //Add and commit together in one cmd for same file
  - git status
  - git log
  - git log --graph -all
