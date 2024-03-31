@@ -1,8 +1,10 @@
 My name is Anmol.
 
 Commands learned till now - 
- - git commit
- - git commit 
+ - git init
+ - git add
+ - git commit -m "msg"
  - git status
  - git log
- - git add
+ - git log --graph -all
+ - git diff
