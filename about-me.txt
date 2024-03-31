@@ -9,8 +9,9 @@ Commands learned till now -
  - git log
  - git log --graph -all
  - git diff
- - git branch
- - git branch branch_name
- - git checkout branch_name
+ - git branch -> showes all branches
+ - git branch branch_name -> creates a new branch 
+ - git checkout branch_name -> switches to a specific branch
+ - git checkout -b branch_name -> creates and then switches to newly created branch
 
  I am writing in main branch.
