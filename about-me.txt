@@ -13,5 +13,6 @@ Commands learned till now -
  - git branch branch_name -> creates a new branch 
  - git checkout branch_name -> switches to a specific branch
  - git checkout -b branch_name -> creates and then switches to newly created branch
+ - git merge branch_name -> merges the specific branch to current working/active branch
 
  I am writing in main branch.
