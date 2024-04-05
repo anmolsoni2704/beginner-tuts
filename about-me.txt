@@ -15,5 +15,6 @@ Commands learned till now -
  - git checkout -b branch_name -> creates and then switches to newly created branch
  - git merge branch_name -> merges the specific branch to current working/active branch
  - git rebase branch_name -> it rebases the specific branch with the current working/active branch(all the changes get added in current branch)
+ - git branch <1st 4letters og commithash> -> It enters into detached head mode and takes to particular commit
  - git switch - -> it takes you out of detached head and brings you back to master/main branch
  I am writing in main branch.
